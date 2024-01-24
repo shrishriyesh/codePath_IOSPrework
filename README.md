@@ -14,13 +14,14 @@ The following **required** functionality is completed:
 - [x] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
+
 <div>
     <a href="https://www.loom.com/share/a8fdcd7cf6da47b3a33c57ee795cc932">
     </a>
     <a href="https://www.loom.com/share/a8fdcd7cf6da47b3a33c57ee795cc932">
       <img style="max-width:300px;" src="null">
     </a>
-  </div>
+</div>
 
 ## App Brainstorming (Step 4)
 
