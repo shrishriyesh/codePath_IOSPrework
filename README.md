@@ -19,12 +19,9 @@ The following **required** functionality is completed:
     <a href="https://www.loom.com/share/a8fdcd7cf6da47b3a33c57ee795cc932">
     </a>
     <a href="https://www.loom.com/share/a8fdcd7cf6da47b3a33c57ee795cc932">
-      <img style="max-width:300px;" src="null">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/a8fdcd7cf6da47b3a33c57ee795cc932-with-play.gif">
     </a>
-</div>
-
-<div style="position: relative; padding-bottom: 212.80898876404493%; height: 0;"><iframe src="https://www.loom.com/embed/a8fdcd7cf6da47b3a33c57ee795cc932?sid=f80b446e-3fbf-47b0-ad5a-91b8b01f504f" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
+  </div>
 ## App Brainstorming (Step 4)
 
 ## Notes
