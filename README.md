@@ -23,6 +23,8 @@ The following **required** functionality is completed:
     </a>
 </div>
 
+<div style="position: relative; padding-bottom: 212.80898876404493%; height: 0;"><iframe src="https://www.loom.com/embed/a8fdcd7cf6da47b3a33c57ee795cc932?sid=f80b446e-3fbf-47b0-ad5a-91b8b01f504f" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
 ## App Brainstorming (Step 4)
 
 ## Notes
