@@ -1,10 +1,10 @@
-# Prework - *Name of App Here*
+# Prework - Flickr \
 
-Submitted by: **Your Name Here**
+Submitted by: Shriyesh Chandra
 
-**Name of your app** is an app that... [TODO] 
+**Flickr** is an app that would tell you everything about me and is having a screen background colour changing feature 
 
-Time spent: **X** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
@@ -14,10 +14,13 @@ The following **required** functionality is completed:
 - [x] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
-
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+<div>
+    <a href="https://www.loom.com/share/a8fdcd7cf6da47b3a33c57ee795cc932">
+    </a>
+    <a href="https://www.loom.com/share/a8fdcd7cf6da47b3a33c57ee795cc932">
+      <img style="max-width:300px;" src="null">
+    </a>
+  </div>
 
 ## App Brainstorming (Step 4)
 
@@ -27,7 +30,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [Shriyesh Chandra]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
